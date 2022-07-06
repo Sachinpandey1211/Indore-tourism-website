@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <student1>
+    <Name>Nazam Singh</Name>
+    <Class>Btech</Class>
+    <uid>207106002</uid>
+    <semester>3rd</semester>
+    </student1>
+  <student2>
+    <Name>Amanjot Kaur</Name>
+    <Class>Btech</Class>
+    <uid>207106004</uid>
+    <semester>3rd</semester>
+  </student2>
+  <student3>
+    <Name>Shiv ram dutt</Name>
+    <Class>Btech</Class>
+    <uid>207106005</uid>
+    <semester>3rd</semester>
+  </student3>
+  <student4>
+    <Name>Sachin pandey</Name>
+    <Class>Btech</Class>
+    <uid>207106006</uid>
+    <semester>3rd</semester>
+  </student4>
+  <student5>
+    <Name>Yougal attri</Name>
+    <Class>Btech</Class>
+    <uid>207106007</uid>
+    <semester>3rd</semester>
+  </student5>
+  <student6>
+    <Name>Jashanpreet Kaur</Name>
+    <Class>Btech</Class>
+    <uid>207106008</uid>
+    <semester>3rd</semester>
+  </student6>
+  <student7>
+    <Name>Bhajanpreet singh</Name>
+    <Class>Btech</Class>
+    <uid>207106009</uid>
+    <semester>3rd</semester>
+  </student7>
+</student>
